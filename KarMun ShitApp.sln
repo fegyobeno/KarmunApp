@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarMun ShitApp", "KarMun ShitApp\KarMun ShitApp.csproj", "{2A7FD14A-CBCB-4779-98BA-4F983CF2554A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7FD14A-CBCB-4779-98BA-4F983CF2554A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7FD14A-CBCB-4779-98BA-4F983CF2554A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7FD14A-CBCB-4779-98BA-4F983CF2554A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7FD14A-CBCB-4779-98BA-4F983CF2554A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51C9C1CA-D87C-4CA2-AC68-085D07B27423}
+	EndGlobalSection
+EndGlobal
