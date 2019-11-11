@@ -25,7 +25,7 @@ namespace KarMun_ShitApp
         {
             cbbManual.Visible = true;
         }
-
+        //fegyobeno
         private void btnSubmit_Click(object sender, EventArgs e)
         {
             for (int i = 1;i<100;i++)
